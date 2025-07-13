@@ -358,8 +358,6 @@
 
         const pathname = path.pathname;
 
-        console.log(pathname);
-
         if(!rootpath){
           if(pathname === '/ecommerce-web/'){
            
